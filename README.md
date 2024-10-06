@@ -1,5 +1,5 @@
 # cs2nadelineuppracticeconfig
-a cs2 config to practice nade lineups on listen servers, originally meant for online servers but also usable offline
+a cs2 config to practice nade lineups and wallbangs on listen servers, originally meant for online servers but also usable offline
 ## Usage:
 download and place the config file `practice.cfg` in the following directory:
 `{cs2 directory}/game/csgo/cfg` (not to be confused with `{cs2 directory}/csgo/cfg`)
